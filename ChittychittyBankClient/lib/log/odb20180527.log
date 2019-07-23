@@ -1,0 +1,68 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:15:36 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21835@Triinus-MacBook-Air.local
+
+[2018-05-27 14:15:36 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:33:50 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21882@Triinus-MacBook-Air.local
+
+[2018-05-27 14:33:50 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:40:11 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' has been recovered (tr. 1-2)
+
+[2018-05-27 14:40:11 #2 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21900@Triinus-MacBook-Air.local
+
+[2018-05-27 14:40:11 #3 store] 
+Configuration path: ?
+
+[2018-05-27 14:40:21 #4 type.registry] 
+New type domain.Employee
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:43:48 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' has been recovered (tr. 3-3)
+
+[2018-05-27 14:43:48 #2 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21911@Triinus-MacBook-Air.local
+
+[2018-05-27 14:43:48 #3 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:44:27 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21914@Triinus-MacBook-Air.local
+
+[2018-05-27 14:44:27 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:44:54 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21917@Triinus-MacBook-Air.local
+
+[2018-05-27 14:44:54 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-05-27 14:53:06 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/Software engeneering/SEprojectIndividual/ChittychittyBank/resources/bets.temp' is opened by 21963@Triinus-MacBook-Air.local
+
+[2018-05-27 14:53:06 #2 store] 
+Configuration path: ?
+
+[2018-05-27 14:53:18 #3 type.registry] 
+New type domain.Employee
+

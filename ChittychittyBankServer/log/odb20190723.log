@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-07-23 14:37:09 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/2018kevad_Hispaania/Software engeneering/SEprojectIndividual/TriinuVeeorgProjectFinal/ChittychittyBankServer/resources/bets.temp' is opened by 12414@Triinus-MacBook-Air-2.local
+
+[2019-07-23 14:37:09 #2 store] 
+Configuration path: ?
+
+[2019-07-23 14:37:09 #3 type] 
+Type domain.Employee is not enhanced.
+
+[2019-07-23 14:37:09 #4 type] 
+Type domain.Currency is not enhanced.
+
+[2019-07-23 14:37:09 #5 type] 
+Type domain.Office is not enhanced.
+
+[2019-07-23 14:37:09 #6 type] 
+Type domain.Account is not enhanced.
+
+[2019-07-23 14:37:09 #7 type] 
+Type domain.Customer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-07-23 14:44:52 #1 store] 
+Database '/Users/Triinu/Documents/Ülikool/2018kevad_Hispaania/Software engeneering/SEprojectIndividual/TriinuVeeorgProjectFinal/ChittychittyBankServer/resources/bets.temp' is opened by 12431@Triinus-MacBook-Air-2.local
+
+[2019-07-23 14:44:52 #2 store] 
+Configuration path: ?
+
+[2019-07-23 14:44:52 #3 type] 
+Type domain.Employee is not enhanced.
+
+[2019-07-23 14:44:52 #4 type] 
+Type domain.Currency is not enhanced.
+
+[2019-07-23 14:44:52 #5 type] 
+Type domain.Office is not enhanced.
+
+[2019-07-23 14:44:52 #6 type] 
+Type domain.Account is not enhanced.
+
+[2019-07-23 14:44:52 #7 type] 
+Type domain.Customer is not enhanced.
+
